@@ -1,2 +1,2 @@
 # ADHD-assiting-software
-This is our compliment of all the details regarding our projecy
+This is our compliment of all the details regarding our project
