@@ -1,3 +1,3 @@
-# ADHD-assiting-software
+# ADHD-assisting-software
 This is our compliment of all the details regarding our project
 ...
